@@ -1,4 +1,4 @@
-# **Titanic Survival Prediction**
+# **Titanic Survival Prediction (62%)**
 
 This repository contains a machine learning project for predicting the survival of passengers aboard the Titanic. The sinking of the Titanic in 1912 is a well-known tragedy, and this project aims to predict whether a given passenger would have survived based on various attributes.
 
